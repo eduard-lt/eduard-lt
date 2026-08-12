@@ -1,4 +1,4 @@
-# Eduard Olteanu
+# eduard-lt
 
 Data Engineer by trade, compulsive builder of useful things by habit. Based in Brașov, Romania.
 
