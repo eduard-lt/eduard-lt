@@ -1,52 +1,30 @@
-# 👋 Hi, I'm Eduard Olteanu
+# Eduard Olteanu
 
-### Data Engineer | Rust Enthusiast | Automation Builder
-Based in 🏔️ Brasov, Romania
+Data Engineer by trade, compulsive builder of useful things by habit. Based in Brașov, Romania.
 
-I’m a Data Engineer who loves the intersection of high-performance code and daily utility. My current focus is shifting from pure Python to the "safety and speed" world of **Rust**, with a goal of building cross-platform tools that make life easier.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Core Data & Backend**
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-**Performance & Modern Tooling**
-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-- ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I move data around for a living and write tools for myself on the side, there's no unifying theme to the side projects other than "this annoyed me, so I fixed it." Some of it ships, some of it lives in a terminal forever and that's fine too.
 
 ---
 
-### 🚀 What I'm working on
-* **📂 File Organizer (Rust + Tauri):** A cross-platform desktop app designed to automatically organize downloads folders by file type. Built with a "write once, run anywhere" philosophy.
-    * *Status:* Windows (Live), Linux/MacOS (Coming soon).
-* **📊 Data Pipelines:** Deep diving into **dbt** to build more robust, version-controlled data transformations.
-* **🦀 Rust Learning:** Migrating my day-to-day automation scripts from Python to Rust for the memory safety and performance gains.
+### What I do
+
+**Day job:** data pipelines, PySpark, SQL, the usual plumbing that keeps analytics people from yelling at engineers.
+
+**Evenings, nights and weekends:** whatever's currently bothering me enough to write code about it.
 
 ---
 
-### 🌱 Current Focus
-- 🏗️ Mastering **dbt** for modern data modeling.
-- 🦀 Building high-performance desktop tools with **Rust**.
-- 🐧 Optimizing my **Linux** workflow for maximum productivity.
-- 🔬 Reasearching random stuff, looking for more ideas to implement
+### Things I've built
+ 
+- **[Harbor](https://github.com/eduard-lt/Harbor-Download-Organizer)** — a download folder organizer, because sorting files by hand is not a personality trait I wanted.
+- **[llamawizard](https://github.com/eduard-lt/llamawizard)** — a terminal app (Go + Bubble Tea) that automates setting up a local LLM stack on Apple Silicon Macs: llama.cpp, llama-swap, the works. For people who'd rather run models locally than argue about it.
+- **A workout tracker** — in progress. Every fitness app gets something wrong; this is my attempt at getting fewer things wrong.
+- **A game** — someday. Everyone says this. I might actually mean it.
 ---
 
-### 📫 Let's Connect
-<div align="left">
-  <a href="https://linkedin.com/in/eduard-olteanu-34296b1b3" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eduardolteanu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
-<br />
+### Elsewhere
 
-> "I like coffee, drawing, and writing code that saves me time."
+[LinkedIn](https://linkedin.com/in/eduard-lt) · [eduardolteanu@gmail.com](mailto:eduardolteanu@gmail.com)
+
+*Currently 90% coffee by volume.* ☕
